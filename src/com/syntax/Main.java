@@ -6,6 +6,7 @@ public class Main {
 	// write your code here
         for (int i = 0; i < 5; i++) {
             System.out.println("Hello Batch 12");
+            System.out.println("Batch 12 Students");
         }
     }
 }
